@@ -1,3 +1,10 @@
+/* IMPORTANT
+For the game to work, please:
+-Save the prossesing file in a folder with the same name
+-Download and un-zip the corresponding data folder on the same level where you stored this file
+https://github.com/raperios/Old-projects/issues/1#issue-474606206
+
+
 PImage[] guns = new PImage[4];
 PImage[] enemies = new PImage[4];
 PImage[] reticles = new PImage[4];
